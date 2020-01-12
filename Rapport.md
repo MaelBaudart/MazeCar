@@ -9,6 +9,8 @@ Séance 2
 
 Modélisation du véhicule sur Inventor quelques petits problème ont été rencontré mais le model 3D incluant tout les cotes a pu être terminé
 
+https://www.noelshack.com/2020-02-7-1578862744-ensemble3.jpg
+
 Séance 3
 ------------
 
